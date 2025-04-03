@@ -55,8 +55,7 @@ Sigue estos pasos para configurar el entorno y ejecutar la API:
 
 ```bash
 # Clonar el repositorio
-git clone [https://github.com/0xfabrica/predictor-tendencias-bursatiles.git](https://github.com/0xfabrica/predictor-tendencias-bursatiles.git)
-
+git clone https://github.com/0xfabrica/predictor-tendencias-bursatiles.git
 # Navegar al directorio del proyecto
 cd predictor-tendencias-bursatiles
 
