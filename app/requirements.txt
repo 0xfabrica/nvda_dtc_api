@@ -1,0 +1,8 @@
+fastapi
+pydantic
+pandas
+scikit-learn
+joblib
+
+# Necesario para ejecutar FastAPI 
+uvicorn
