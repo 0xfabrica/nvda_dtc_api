@@ -57,7 +57,17 @@ Sigue estos pasos para configurar el entorno y ejecutar la API:
 # Clonar el repositorio
 git clone https://github.com/0xfabrica/predictor-tendencias-bursatiles.git
 # Navegar al directorio del proyecto
-cd predictor-tendencias-bursatiles
+cd app
 
 # Instalar las dependencias
 pip install -r requirements.txt
+
+# Arrancar proyecto
+uvicorn main:app --reload
+
+# Navegar al link de despliegue
+http://127.0.0.1:(puerto)/docs/
+```
+Abrirás algo como esto:
+![image](https://github.com/user-attachments/assets/1d883ccd-c45d-4e16-9ab1-97c67ec0e14c)
+
